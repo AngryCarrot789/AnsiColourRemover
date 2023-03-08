@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnsiColourRemover:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="AnsiColourRemover.jar">
+      <element id="module-output" name="AnsiColourRemover" />
+    </root>
+  </artifact>
+</component>
